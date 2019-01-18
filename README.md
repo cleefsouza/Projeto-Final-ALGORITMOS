@@ -1,4 +1,4 @@
-﻿# Projeto Algoritmos
+﻿# faculdade-proj-algoritmos-python
 Projeto final da disciplina de algoritmos 1 - UNIPÊ
 
 ## Descrição
